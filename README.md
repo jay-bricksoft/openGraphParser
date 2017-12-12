@@ -1,4 +1,6 @@
 # OpenGraphParser
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjay-bricksoft%2FopenGraphParser.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjay-bricksoft%2FopenGraphParser?ref=badge_shield)
+
 
 Extract the first url from the provided string if any, fetch the related html page content & parse it to return an opengraph data object
 
@@ -28,3 +30,7 @@ OpenGraphParser.extractMeta(textContainingUrl).then(
 
 *   Generate ES5 compliant code
 *   Add Test cases
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjay-bricksoft%2FopenGraphParser.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjay-bricksoft%2FopenGraphParser?ref=badge_large)
